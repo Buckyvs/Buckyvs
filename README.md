@@ -42,3 +42,5 @@ I'm **Vishakha Shukla**, also known as `Buckyvs`.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Buckyvs&show_icons=true&hide_border=true&theme=default" alt="Buckyvs's GitHub Stats" />
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buckyvs&layout=compact&theme=default)
