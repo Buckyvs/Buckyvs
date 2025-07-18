@@ -9,7 +9,7 @@ I'm **Vishakha Shukla**, also known as `Buckyvs`.
 - 💬 Ask me about **Python**, **Data Analytics**, and **NLP**
 - 📫 How to reach me: [shuklavishakha02@gmail.com](mailto:shuklavishakha02@gmail.com)
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: In 2020, an AI-generated painting sold at auction for over $400,000 — showing how creativity and code go hand-in-hand!
+- ⚡ Fun fact: Python is named after the comedy group "Monty Python," not the snake.
 
 
 ## 🌱 Languages and Tools
