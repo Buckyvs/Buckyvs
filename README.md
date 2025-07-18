@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="/mikasa.jpg" alt="Greeting image" width="200"/>
+<img align="center" src="/mikasa.jpg" alt="Greeting image" width="200"/>
 
 I'm **Vishakha Shukla**, also known as `Buckyvs`.
 
