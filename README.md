@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p align="center">
 <img src="/mikasa.jpg" alt="Greeting image" width="200"/>
-<p>I'm <b>Vishakha Shukla</b>, also known as `Buckyvs`.</p>
+<p align="center">I'm <b>Vishakha Shukla</b>, also known as `Buckyvs`.</p>
 </p>
 I'm **Vishakha Shukla**, also known as `Buckyvs`.
 
