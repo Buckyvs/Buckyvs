@@ -3,7 +3,7 @@
 <img src="/mikasa.jpg" alt="Greeting image" width="200"/>
 <p align="center">I'm <b>Vishakha Shukla</b>, also known as `Buckyvs`.</p>
 </p>
-I'm **Vishakha Shukla**, also known as `Buckyvs`.
+
 
 - 🔭 I’m currently working as an **Intern** at **Hitachi Digital Services** 
 - 🌱 I’m exploring **Machine Learning**, **Natural Language Processing**
