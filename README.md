@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<!--
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F826692075344268267%2F&psig=AOvVaw3V2nWW0d0kSBiVCdeOY5tk&ust=1752933602885000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDDxdvIxo4DFQAAAAAdAAAAABAE" alt="Greeting image" width="200"/>
+
 I'm **Vishakha Shukla**, also known as `Buckyvs`.
 
 - 🔭 I’m currently working as an **Intern** at **Hitachi Digital Services** 
@@ -9,7 +10,7 @@ I'm **Vishakha Shukla**, also known as `Buckyvs`.
 - 📫 How to reach me: [shuklavishakha02@gmail.com](mailto:shuklavishakha02@gmail.com)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: In 2020, an AI-generated painting sold at auction for over $400,000 — showing how creativity and code go hand-in-hand!
--->
+
 
 ## 🌱 Languages and Tools
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
