@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as an **Intern** at **Hitachi Digital Services** 
 - 🌱 I’m exploring **Machine Learning**, **Natural Language Processing**
-- 💬 Ask me about **Python**, **Data Analytics**, and **NLP**
+- 💬 Ask me about **Python**, **Machine Learning**, and **NLP**
 - 📫 How to reach me: [shuklavishakha02@gmail.com](mailto:shuklavishakha02@gmail.com)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Python is named after the comedy group "Monty Python," not the snake.
